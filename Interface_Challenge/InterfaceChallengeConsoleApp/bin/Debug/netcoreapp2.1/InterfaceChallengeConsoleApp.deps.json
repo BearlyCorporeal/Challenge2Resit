@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "InterfaceChallengeConsoleApp/1.0.0": {
+        "dependencies": {
+          "ClassLibraryInterfaceChallenge": "1.0.0"
+        },
+        "runtime": {
+          "InterfaceChallengeConsoleApp.dll": {}
+        }
+      },
+      "ClassLibraryInterfaceChallenge/1.0.0": {
+        "runtime": {
+          "ClassLibraryInterfaceChallenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfaceChallengeConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryInterfaceChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\ClassLibraryInterfaceChallenge\bin\Debug\netcoreapp2.1\ClassLibraryInterfaceChallenge.deps.json
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\ClassLibraryInterfaceChallenge\bin\Debug\netcoreapp2.1\ClassLibraryInterfaceChallenge.dll
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\ClassLibraryInterfaceChallenge\bin\Debug\netcoreapp2.1\ClassLibraryInterfaceChallenge.pdb
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\ClassLibraryInterfaceChallenge\obj\Debug\netcoreapp2.1\ClassLibraryInterfaceChallenge.csprojAssemblyReference.cache
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\ClassLibraryInterfaceChallenge\obj\Debug\netcoreapp2.1\ClassLibraryInterfaceChallenge.csproj.CoreCompileInputs.cache
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\ClassLibraryInterfaceChallenge\obj\Debug\netcoreapp2.1\ClassLibraryInterfaceChallenge.AssemblyInfoInputs.cache
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\ClassLibraryInterfaceChallenge\obj\Debug\netcoreapp2.1\ClassLibraryInterfaceChallenge.AssemblyInfo.cs
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\ClassLibraryInterfaceChallenge\obj\Debug\netcoreapp2.1\ClassLibraryInterfaceChallenge.dll
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\ClassLibraryInterfaceChallenge\obj\Debug\netcoreapp2.1\ClassLibraryInterfaceChallenge.pdb

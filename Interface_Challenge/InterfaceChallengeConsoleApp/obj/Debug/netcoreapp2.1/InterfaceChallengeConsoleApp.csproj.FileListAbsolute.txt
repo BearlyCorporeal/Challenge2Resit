@@ -1,0 +1,14 @@
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\InterfaceChallengeConsoleApp\bin\Debug\netcoreapp2.1\InterfaceChallengeConsoleApp.deps.json
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\InterfaceChallengeConsoleApp\bin\Debug\netcoreapp2.1\InterfaceChallengeConsoleApp.runtimeconfig.json
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\InterfaceChallengeConsoleApp\bin\Debug\netcoreapp2.1\InterfaceChallengeConsoleApp.runtimeconfig.dev.json
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\InterfaceChallengeConsoleApp\bin\Debug\netcoreapp2.1\InterfaceChallengeConsoleApp.dll
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\InterfaceChallengeConsoleApp\bin\Debug\netcoreapp2.1\InterfaceChallengeConsoleApp.pdb
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\InterfaceChallengeConsoleApp\obj\Debug\netcoreapp2.1\InterfaceChallengeConsoleApp.csprojAssemblyReference.cache
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\InterfaceChallengeConsoleApp\obj\Debug\netcoreapp2.1\InterfaceChallengeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\InterfaceChallengeConsoleApp\obj\Debug\netcoreapp2.1\InterfaceChallengeConsoleApp.AssemblyInfoInputs.cache
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\InterfaceChallengeConsoleApp\obj\Debug\netcoreapp2.1\InterfaceChallengeConsoleApp.AssemblyInfo.cs
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\InterfaceChallengeConsoleApp\obj\Debug\netcoreapp2.1\InterfaceChallengeConsoleApp.dll
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\InterfaceChallengeConsoleApp\obj\Debug\netcoreapp2.1\InterfaceChallengeConsoleApp.pdb
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\InterfaceChallengeConsoleApp\bin\Debug\netcoreapp2.1\ClassLibraryInterfaceChallenge.dll
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\InterfaceChallengeConsoleApp\bin\Debug\netcoreapp2.1\ClassLibraryInterfaceChallenge.pdb
+C:\Users\102570136\Documents\GitHub\Challenge2Resit\Interface_Challenge\InterfaceChallengeConsoleApp\obj\Debug\netcoreapp2.1\InterfaceChallengeConsoleApp.csproj.CopyComplete
